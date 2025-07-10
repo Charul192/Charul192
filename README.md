@@ -1,6 +1,13 @@
 # 💫 About Me:
-🛰️ I’m currently working on:<br> learning full-stack web development.<br><br>🤝 I’m looking to collaborate on:<br>Frontend projects, open-source contributions<br><br>🧠 I’m looking for help with:<br>Advanced React concepts, backend API integrations<br><br>🌱 I’m currently learning:<br>React.js, Node.js, MongoDB, and contributing to open source.<br><br>💬 Ask me about:<br>Web development, Git/GitHub<br><br>⚡ Fun fact:<br>I love creating aesthetic UI designs and I can spend hours perfecting a single hover effect ✨
+- 💻 I’m currently learning about Backend
 
+- 🤜🏻🤛🏻 I’m looking to collaborate on JavaScript based projects
+
+- 💬 Ask me about HTML , CSS, JavaScript, React, Wordpress
+
+- ⚡ Fun fact: I love to listen to music
+  
+[![](https://visitcount.itsvg.in/api?id=Charul192&icon=0&color=0)](https://visitcount.itsvg.in)
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Charul192&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
@@ -12,6 +19,4 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Charul192&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Charul192&icon=0&color=0)](https://visitcount.itsvg.in)
-
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
