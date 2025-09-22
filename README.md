@@ -3,7 +3,7 @@
 
 - 🤜🏻🤛🏻 I’m looking to collaborate on JavaScript based projects
 
-- 💬 Ask me about HTML , CSS, JavaScript, React, Wordpress
+- 💬 Ask me about HTML , CSS, JavaScript, React, Figma
 
 - ⚡ Fun fact: I love to listen to music
   
